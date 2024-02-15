@@ -299,7 +299,7 @@ svg.icon.icon--mail.text--color-white,
 .subNavMenu--selected .subNavMenu-btn:focus,
 .subNavMenu--selected .subNavMenu-btn:hover,
 .subNavMenu--light.subNavMenu-btn:focus,
-.subNavMenu--light.subNavMenu-btn:hover
+.subNavMenu--light.subNavMenu-btn:hover,
 .btn--mode-special:focus,
 .btn--mode-special:hover,
 button:focus .btn--mode-special,
@@ -368,6 +368,7 @@ a {
     background-color: #1B2836 !important;
     color: #EEE !important;
 }
+.redactor,
 .redactor-editor,
 .comments-item--active,
 .comments-item--in-moderation,
